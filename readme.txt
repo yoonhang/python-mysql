@@ -27,3 +27,10 @@ while (True) :
 conn.commit()
 conn.close()
 
+###############
+#파이썬 윈도우 프로그래밍
+
+from tkinter import *
+root = Tk()
+root.geometry("200x250")
+
